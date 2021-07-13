@@ -1,4 +1,8 @@
-**Android AppSec (Kotlin)** app will help you to practice for Android Security points. We do it for the right reasons - to help developers make their apps more secure. The best way to verify that your app follows secure mobile development best practices is to perform security assessments of the app, which can include automated mobile app security testing, fuzzing, manual penetration testing, and more. This application represents some of the knowledge we share with the infosec community. We are trying to build a vulnerable application based on ***OWASP Mobile Security Testing Guide***.
+# @hpAndro1337 Android Application Security 
+
+## CTF Style Android Security Challenges [ctf.hpandro.raviramesh.info](http://ctf.hpandro.raviramesh.info)
+
+**[Android AppSec (Kotlin)](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)** app will help you to practice for Android Security points. We do it for the right reasons - to help developers make their apps more secure. The best way to verify that your app follows secure mobile development best practices is to perform security assessments of the app, which can include automated mobile app security testing, fuzzing, manual penetration testing, and more. This application represents some of the knowledge we share with the infosec community. We are trying to build a vulnerable application based on ***[OWASP Mobile Security Testing Guide](https://github.com/OWASP/owasp-mstg)***.
 
 In this application we are covering below points:
 
