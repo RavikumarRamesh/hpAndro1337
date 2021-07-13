@@ -1,18 +1,19 @@
-Android AppSec (Kotlin) app will help you to practice for Android Security points. We do it for the right reasons - to help developers make their apps more secure. The best way to verify that your app follows secure mobile development best practices is to perform security assessments of the app, which can include automated mobile app security testing, fuzzing, manual penetration testing, and more. This application represents some of the knowledge we share with the infosec community. We are trying to build a vulnerable application based on OWASP Mobile Security Testing Guide.
+**Android AppSec (Kotlin)** app will help you to practice for Android Security points. We do it for the right reasons - to help developers make their apps more secure. The best way to verify that your app follows secure mobile development best practices is to perform security assessments of the app, which can include automated mobile app security testing, fuzzing, manual penetration testing, and more. This application represents some of the knowledge we share with the infosec community. We are trying to build a vulnerable application based on ***OWASP Mobile Security Testing Guide***.
 
 In this application we are covering below points:
-1 HTTP Traffic
+
+**1 HTTP Traffic**
 1.1 HTTP Traffic
 1.2 HTTPS Traffic
-2 Public Key Pinning
+**2 Public Key Pinning**
 2.1-4 Certificate Pinning Bypass
-3 Non-HTTP Traffic
+**3 Non-HTTP Traffic**
 3.1 TCP Traffic
 3.2 UDP Traffic
-4 WebSocket Traffic
+**4 WebSocket Traffic**
 4.1 Web Socket (WS)
 4.2 Web Socket Secure (WSS)
-5 Root Detection
+**5 Root Detection**
 5.1 Root Management Apps
 5.2 Potentially Dangerous Apps
 5.3 Root Cloaking Apps
@@ -24,7 +25,7 @@ In this application we are covering below points:
 5.9 RW System
 5.10 SafetyNet
 5.11 Using running processes
-6 Emulator detection
+**6 Emulator detection**
 6.1 Virtual Phone Number
 6.2 Device IDs
 6.3 Hardware Specifications
@@ -34,8 +35,8 @@ In this application we are covering below points:
 6.7 Package Name
 6.8 Debug Flag
 6.9 Network Operator Name
-7 Anti-Debugging detection
-8 Insecure Data Storage
+**7 Anti-Debugging detection**
+**8 Insecure Data Storage**
 8.1 SQLite Databases (Unencrypted)
 8.2 SQLite Databases (Encrypted)
 8.3 Realm Databases (Unencrypted)
@@ -54,17 +55,17 @@ In this application we are covering below points:
 8.16 User Dictionary Cache
 8.17 Paste Board
 8.18 Activity data
-9 Logs
+**9 Logs**
 9.1 Informational
 9.2 Error
 9.3 Warnings
 9.4 Debug
 9.5 Verbose
 9.6 WTF
-10 Content Providers
+**10 Content Providers**
 10.1 SQL Injection
 10.2 File System Expose
-11 Encryption
+**11 Encryption**
 11.1 Message Authentication Codes
 11.2 Message Digest
 11.3 Signatures
@@ -73,20 +74,20 @@ In this application we are covering below points:
 11.6 Weak Key Generation
 11.7 Weak Random Number
 11.8 Weaker Padding
-12 Symmetric Encryption
+**12 Symmetric Encryption**
 12.1 DES
 12.2 3DES
 12.3 RC4
 12.4 Blowfish
 12.5 AES
 12.6 Predictable Initialization Vector
-13 Asymmetric Encryption
+**13 Asymmetric Encryption**
 13.1 RSA
-14 Hashing
+**14 Hashing**
 14.1 MD4
 14.2 MD5
 14.3 SHA1
-15 Authentication
+**15 Authentication**
 15.1 Biometric
 15.2 Confirm Credentials
 15.3 2FA - OTP Leakage
@@ -96,18 +97,18 @@ In this application we are covering below points:
 15.7 2FA - OTP Brute-Force 2
 15.8 2FA - Integrity Validation
 15.9 Application lock
-16 Binary Protection
+**16 Binary Protection**
 16.1 Library (NDK)
 16.2 Packers
 16.3 Obfuscator
-17 Device ID
+**17 Device ID**
 17.1 SSAID/ANDROID_ID
 17.2 Device Wi-Fi MAC
 17.3 GPS Location
 17.4 IMEI/ESN
 17.5 MEID
 17.6 IMSI
-18 Web Application
+**18 Web Application**
 18.1 HTML5 Controls
 18.2 Bruteforce
 18.3 Login Bypass - Cookies Manipulation
@@ -139,7 +140,7 @@ In this application we are covering below points:
 18.30 Code Injection
 18.31 Old Backup Files
 18.32 Insecure Direct Object Reference
-19 Miscellaneous
+**19 Miscellaneous**
 19.1 Deeplink
 19.2 QR Code
 19.3-7 Backdoor 1-5
