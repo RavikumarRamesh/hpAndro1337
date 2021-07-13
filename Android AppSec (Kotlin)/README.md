@@ -1,3 +1,5 @@
+# CHANGELOG
+
 ## version. 1.1.12 - July 10, 2021
 
 1. In Root detection category Root Cloaking Apps detection - com.topjohnwu.magisk package package checking added
