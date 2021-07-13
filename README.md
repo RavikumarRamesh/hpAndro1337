@@ -15,10 +15,10 @@ In this application we are covering below points:
    1. [HTTP Traffic](https://play.google.com/store/apps/details?id=hpandro.java.infosec.http)
    2. [HTTPS Traffic](https://play.google.com/store/apps/details?id=hpandro.java.infosec.https)
 2. **Public Key Pinning**
-   1. Certificate Pinning Bypass (network_security_config.xml) [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
-   2. Certificate Pinning Bypass (okhttp) [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
-   3. Certificate Pinning Bypass (Cert check) [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
-   4. Certificate Pinning Bypass (Cert Hash match) [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+   1. Certificate Pinning Bypass (network_security_config.xml) [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+   2. Certificate Pinning Bypass (okhttp) [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+   3. Certificate Pinning Bypass (Cert check) [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+   4. Certificate Pinning Bypass (Cert Hash match) [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
 3. **Non-HTTP Traffic**
    1. [TCP Traffic](https://play.google.com/store/apps/details?id=hpandro.java.infosec.tcp_traffic)
    2. [UDP Traffic](https://play.google.com/store/apps/details?id=hpandro.java.infosec.udp_traffic)
@@ -27,54 +27,54 @@ In this application we are covering below points:
    2. [Web Socket Secure (WSS)](https://play.google.com/store/apps/details?id=hpandro.java.infosec.wss)
 5. **Root Detection**
    1. [Root Management Apps](https://play.google.com/store/apps/details?id=hpandro.java.infosec.rootmanager)
-   2. Potentially Dangerous Apps
+   2. Potentially Dangerous Apps [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
    3. [Root Cloaking Apps](https://play.google.com/store/apps/details?id=hpandro.java.infosec.rootclock)
    4. [Test Keys](https://play.google.com/store/apps/details?id=hpandro.java.infosec.testkeys)
-   5. Dangerous Props
+   5. Dangerous Props [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
    6. [BusyBox Binary](https://play.google.com/store/apps/details?id=hpandro.java.infosec.busybox)
-   7. Su Binary
+   7. Su Binary [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
    8. [Su Exists](https://play.google.com/store/apps/details?id=hpandro.java.infosec.su)
-   9. RW System
-   10. SafetyNet [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
-   11. Using running processes [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+   9. RW System [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
+   10. SafetyNet  [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+   11. Using running processes [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
 6. **Emulator detection**
-   1. Virtual Phone Number
-   2. Device IDs
-   3. Hardware Specifications
-   4. QEmu Detection
-   5. File Based Checking
-   6. IP Based Checking
-   7. Package Name
-   8. Debug Flag
-   9. Network Operator Name
+   1. Virtual Phone Number [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
+   2. Device IDs [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+   3. Hardware Specifications [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
+   4. QEmu Detection [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+   5. File Based Checking [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
+   6. IP Based Checking [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
+   7. Package Name [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+   8. Debug Flag [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
+   9. Network Operator Name [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
 7. **Anti-Debugging detection**
-   1. PMS Hook Detection [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
-   2. Checking TracerPid [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
-   3. Using Fork and ptrace [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
-   4. Frida Detection [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
-   5. SafetyNet [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
-   6. Debuggable Flag [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
-   7. isDebugger Connected [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
-   8. Timer Checks [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
-   9. JDWP-Related Data Structures [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+   1. PMS Hook Detection [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+   2. Checking TracerPid [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+   3. Using Fork and ptrace [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+   4. Frida Detection [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+   5. SafetyNet [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+   6. Debuggable Flag [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+   7. isDebugger Connected [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+   8. Timer Checks [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+   9. JDWP-Related Data Structures [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
 8. **Insecure Data Storage**
    1. [SQLite Databases (Unencrypted)](https://play.google.com/store/apps/details?id=hpandro.java.infosec.sqlitedb)
-   2. SQLite Databases (Encrypted) [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
-   3. Realm Databases (Unencrypted) [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
-   4. Realm Databases (Encrypted) [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
-   5. Firebase Real-time Databases [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+   2. SQLite Databases (Encrypted) [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+   3. Realm Databases (Unencrypted) [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+   4. Realm Databases (Encrypted) [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+   5. Firebase Real-time Databases [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
    6. [Shared Preferences](https://play.google.com/store/apps/details?id=hpandro.java.infosec.sharedpref)
    7. [Internal Storage](https://play.google.com/store/apps/details?id=hpandro.java.infosec.internal_storage)
    8. [External Storage](https://play.google.com/store/apps/details?id=hpandro.java.infosec.external_storage)
-   9. KeyStore [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
-   10. KeyChain [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
-   11. Keyboard Cache [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
-   12. User Interface [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
-   13. App Backup [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
-   14. Screenshots [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
-   15. Memory [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
-   16. User Dictionary Cache [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
-   17. Paste Board [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+   9. KeyStore [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+   10. KeyChain [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+   11. Keyboard Cache [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+   12. User Interface [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+   13. App Backup [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+   14. Screenshots [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+   15. Memory [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+   16. User Dictionary Cache [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+   17. Paste Board [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
    18. [Activity data](https://play.google.com/store/apps/details?id=hpandro.java.infosec.activity_data)
 9. **Logs**
    1. [Informational Logs](https://play.google.com/store/apps/details?id=hpandro.java.infosec.infolog)
@@ -85,16 +85,16 @@ In this application we are covering below points:
    6. [WTF Logs](https://play.google.com/store/apps/details?id=hpandro.java.infosec.infolog)
 10. **Content Providers**
     1. [SQL Injection](https://play.google.com/store/apps/details?id=hpandro.java.infosec.sqlinjection)
-    2. File System Expose [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+    2. File System Expose [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
 11. **Encryption**
-    1. Message Authentication Codes [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
-    2. Message Digest [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
-    3. Signatures [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
-    4. Custom Implementations [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+    1. Message Authentication Codes [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+    2. Message Digest [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+    3. Signatures [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+    4. Custom Implementations [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
     5. [Caesar Cipher](https://play.google.com/store/apps/details?id=hpandro.java.infosec.caesar)
-    6. Weak Key Generation [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
-    7. Weak Random Number [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
-    8. Weaker Padding [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+    6. Weak Key Generation [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+    7. Weak Random Number [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+    8. Weaker Padding [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
 12. **Symmetric Encryption**
     1. [DES](https://play.google.com/store/apps/details?id=hpandro.java.infosec.des)
     2. [3DES](https://play.google.com/store/apps/details?id=hpandro.java.infosec.triple_des)
@@ -109,62 +109,62 @@ In this application we are covering below points:
     2. [MD5](https://play.google.com/store/apps/details?id=hpandro.java.infosec.md5)
     3. [SHA1](https://play.google.com/store/apps/details?id=hpandro.java.infosec.sha1)
 15. **Authentication**
-    1. Biometric [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
-    2. Confirm Credentials [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+    1. Biometric [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+    2. Confirm Credentials [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
     3. [2FA - OTP Leakage](https://play.google.com/store/apps/details?id=hpandro.java.infosec.FA2)
-    4. 2FA - Response Manipulation
-    5. 2FA - Status Code Manipulation
-    6. 2FA - OTP Brute-Force
-    7. 2FA - OTP Brute-Force 2
-    8. 2FA - Integrity Validation
-    9. Application lock [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+    4. 2FA - Response Manipulation [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
+    5. 2FA - Status Code Manipulation [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
+    6. 2FA - OTP Brute-Force [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
+    7. 2FA - OTP Brute-Force 2 [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
+    8. 2FA - Integrity Validation [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
+    9. Application lock [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
 16. **Binary Protection**
-    1. Library (NDK) [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
-    2. Packers [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
-    3. Obfuscator [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+    1. Library (NDK) [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+    2. Packers [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+    3. Obfuscator [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
 17. **Device ID**
     1. [SSAID/ANDROID_ID](https://play.google.com/store/apps/details?id=hpandro.java.infosec.android_id)
     2. [Device Wi-Fi MAC](https://play.google.com/store/apps/details?id=hpandro.java.infosec.device_mac)
     3. [GPS Location](https://play.google.com/store/apps/details?id=hpandro.java.infosec.gps)
     4. [IMEI/ESN](https://play.google.com/store/apps/details?id=hpandro.java.infosec.imei)
-    5. MEID
-    6. IMSI
+    5. MEID [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+    6. IMSI [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
 18. **Web Application**
-    1. HTML5 Controls
-    2. Bruteforce
-    3. Login Bypass - Cookies Manipulation
-    4. Encoding - Hashing
-    5. JavaScript - Info leak
-    6. Server Fingerprint
-    7. Client Side Validation Bypass
-    8. User Password Enumeration
-    9. OTP Bruteforce
-    10. JWT Misconfiguration
-    11. Guessable Session ID
-    12. REST API HTTP Methods
-    13. SSRF
-    14. XXE
-    15. Unrestricted File Upload
-    16. LFI [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
-    17. RFI
-    18. Deserialization
-    19. XPATH Injection
-    20. Metafiles - Info Leakage
-    21. RIA Cross Domain Policy
-    22. Default Credentials
-    23. OS Command Injection
-    24. S3 bucket misconfiguration
-    25. Path Traversal
-    26. Captcha Bypass
-    27. IP whitelisting Bypass
-    28. SSTI
-    29. Review comment and Metadata
-    30. Code Injection
-    31. Old Backup Files
-    32. Insecure Direct Object Reference
-    33. JSON to XXE (Blind)
+    1. HTML5 Controls [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
+    2. Bruteforce [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
+    3. Login Bypass - Cookies Manipulation [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
+    4. Encoding - Hashing [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
+    5. JavaScript - Info leak [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
+    6. Server Fingerprint [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
+    7. Client Side Validation Bypass [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
+    8. User Password Enumeration [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
+    9. OTP Bruteforce [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
+    10. JWT Misconfiguration [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
+    11. Guessable Session ID [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
+    12. REST API HTTP Methods [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
+    13. SSRF [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
+    14. XXE [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
+    15. Unrestricted File Upload [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
+    16. LFI [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+    17. RFI [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
+    18. Deserialization [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+    19. XPATH Injection [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
+    20. Metafiles - Info Leakage [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
+    21. RIA Cross Domain Policy [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
+    22. Default Credentials [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
+    23. OS Command Injection [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+    24. S3 bucket misconfiguration [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
+    25. Path Traversal [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+    26. Captcha Bypass [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+    27. IP whitelisting Bypass [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+    28. SSTI [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
+    29. Review comment and Metadata [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
+    30. Code Injection [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+    31. Old Backup Files [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
+    32. Insecure Direct Object Reference [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
+    33. JSON to XXE (Blind) [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
 19. **Miscellaneous**
-    1. Deeplink [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+    1. Deeplink [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
     2. [QR Code](https://play.google.com/store/apps/details?id=hpandro.java.infosec.qr)
     3. [Backdoor1](https://play.google.com/store/apps/details?id=hpandro.java.infosec.backdooor1)
     4. [Backdoor2](https://play.google.com/store/apps/details?id=hpandro.java.infosec.backdooor2)
