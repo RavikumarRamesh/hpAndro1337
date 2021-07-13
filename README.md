@@ -20,20 +20,20 @@ In this application we are covering below points:
    3. Certificate Pinning Bypass (Cert check) [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
    4. Certificate Pinning Bypass (Cert Hash match) [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
 3. **Non-HTTP Traffic**
-   1. TCP Traffic
-   2. UDP Traffic
+   1. [TCP Traffic](https://play.google.com/store/apps/details?id=hpandro.java.infosec.tcp_traffic)
+   2. [UDP Traffic](https://play.google.com/store/apps/details?id=hpandro.java.infosec.udp_traffic)
 4. **WebSocket Traffic**
-   1. Web Socket (WS)
-   2. Web Socket Secure (WSS)
+   1. [Web Socket (WS)](https://play.google.com/store/apps/details?id=hpandro.java.infosec.ws)
+   2. [Web Socket Secure (WSS)](https://play.google.com/store/apps/details?id=hpandro.java.infosec.wss)
 5. **Root Detection**
-   1. Root Management Apps
+   1. [Root Management Apps](https://play.google.com/store/apps/details?id=hpandro.java.infosec.rootmanager)
    2. Potentially Dangerous Apps
-   3. Root Cloaking Apps
-   4. Test Keys
+   3. [Root Cloaking Apps](https://play.google.com/store/apps/details?id=hpandro.java.infosec.rootclock)
+   4. [Test Keys](https://play.google.com/store/apps/details?id=hpandro.java.infosec.testkeys)
    5. Dangerous Props
-   6. BusyBox Binary
+   6. [BusyBox Binary](https://play.google.com/store/apps/details?id=hpandro.java.infosec.busybox)
    7. Su Binary
-   8. Su Exists
+   8. [Su Exists](https://play.google.com/store/apps/details?id=hpandro.java.infosec.su)
    9. RW System
    10. SafetyNet [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
    11. Using running processes [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
@@ -58,14 +58,14 @@ In this application we are covering below points:
    8. Timer Checks [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
    9. JDWP-Related Data Structures [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
 8. **Insecure Data Storage**
-   1. SQLite Databases (Unencrypted)
+   1. [SQLite Databases (Unencrypted)](https://play.google.com/store/apps/details?id=hpandro.java.infosec.sqlitedb)
    2. SQLite Databases (Encrypted) [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
    3. Realm Databases (Unencrypted) [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
    4. Realm Databases (Encrypted) [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
    5. Firebase Real-time Databases [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
-   6. Shared Preferences
-   7. Internal Storage
-   8. External Storage
+   6. [Shared Preferences](https://play.google.com/store/apps/details?id=hpandro.java.infosec.sharedpref)
+   7. [Internal Storage](https://play.google.com/store/apps/details?id=hpandro.java.infosec.internal_storage)
+   8. [External Storage](https://play.google.com/store/apps/details?id=hpandro.java.infosec.external_storage)
    9. KeyStore [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
    10. KeyChain [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
    11. Keyboard Cache [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
@@ -75,43 +75,43 @@ In this application we are covering below points:
    15. Memory [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
    16. User Dictionary Cache [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
    17. Paste Board [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
-   18. Activity data
+   18. [Activity data](https://play.google.com/store/apps/details?id=hpandro.java.infosec.activity_data)
 9. **Logs**
-   1. Informational Logs
-   2. Error Logs
-   3. Warnings Logs
-   4. Debug Logs
-   5. Verbose Logs
-   6. WTF Logs
+   1. [Informational Logs](https://play.google.com/store/apps/details?id=hpandro.java.infosec.infolog)
+   2. [Error Logs](https://play.google.com/store/apps/details?id=hpandro.java.infosec.infolog)
+   3. [Warnings Logs](https://play.google.com/store/apps/details?id=hpandro.java.infosec.infolog)
+   4. [Debug Logs](https://play.google.com/store/apps/details?id=hpandro.java.infosec.infolog)
+   5. [Verbose Logs](https://play.google.com/store/apps/details?id=hpandro.java.infosec.infolog)
+   6. [WTF Logs](https://play.google.com/store/apps/details?id=hpandro.java.infosec.infolog)
 10. **Content Providers**
-    1. SQL Injection
+    1. [SQL Injection](https://play.google.com/store/apps/details?id=hpandro.java.infosec.sqlinjection)
     2. File System Expose [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
 11. **Encryption**
     1. Message Authentication Codes [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
     2. Message Digest [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
     3. Signatures [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
     4. Custom Implementations [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
-    5. Caesar Cipher
+    5. [Caesar Cipher](https://play.google.com/store/apps/details?id=hpandro.java.infosec.caesar)
     6. Weak Key Generation [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
     7. Weak Random Number [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
     8. Weaker Padding [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
 12. **Symmetric Encryption**
-    1. DES
-    2. 3DES
-    3. RC4
-    4. Blowfish
-    5. AES
-    6. Predictable Initialization Vector
+    1. [DES](https://play.google.com/store/apps/details?id=hpandro.java.infosec.des)
+    2. [3DES](https://play.google.com/store/apps/details?id=hpandro.java.infosec.triple_des)
+    3. [RC4](https://play.google.com/store/apps/details?id=hpandro.java.infosec.rc4)
+    4. [Blowfish](https://play.google.com/store/apps/details?id=hpandro.java.infosec.blowfish)
+    5. [AES](https://play.google.com/store/apps/details?id=hpandro.java.infosec.aes)
+    6. [Predictable Initialization Vector](https://play.google.com/store/apps/details?id=hpandro.java.infosec.predictable)
 13. **Asymmetric Encryption**
-    1. RSA
+    1. [RSA](https://play.google.com/store/apps/details?id=hpandro.java.infosec.rsa)
 14. **Hashing**
-    1. MD4
-    2. MD5
-    3. SHA1
+    1. [MD4](https://play.google.com/store/apps/details?id=hpandro.java.infosec.md4)
+    2. [MD5](https://play.google.com/store/apps/details?id=hpandro.java.infosec.md5)
+    3. [SHA1](https://play.google.com/store/apps/details?id=hpandro.java.infosec.sha1)
 15. **Authentication**
     1. Biometric [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
     2. Confirm Credentials [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
-    3. 2FA - OTP Leakage
+    3. [2FA - OTP Leakage](https://play.google.com/store/apps/details?id=hpandro.java.infosec.FA2)
     4. 2FA - Response Manipulation
     5. 2FA - Status Code Manipulation
     6. 2FA - OTP Brute-Force
@@ -123,10 +123,10 @@ In this application we are covering below points:
     2. Packers [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
     3. Obfuscator [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
 17. **Device ID**
-    1. SSAID/ANDROID_ID
-    2. Device Wi-Fi MAC
-    3. GPS Location
-    4. IMEI/ESN
+    1. [SSAID/ANDROID_ID](https://play.google.com/store/apps/details?id=hpandro.java.infosec.android_id)
+    2. [Device Wi-Fi MAC](https://play.google.com/store/apps/details?id=hpandro.java.infosec.device_mac)
+    3. [GPS Location](https://play.google.com/store/apps/details?id=hpandro.java.infosec.gps)
+    4. [IMEI/ESN](https://play.google.com/store/apps/details?id=hpandro.java.infosec.imei)
     5. MEID
     6. IMSI
 18. **Web Application**
@@ -165,11 +165,11 @@ In this application we are covering below points:
     33. JSON to XXE (Blind)
 19. **Miscellaneous**
     1. Deeplink [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
-    2. QR Code
-    3. Backdoor1
-    4. Backdoor2
-    5. Backdoor3
-    6. Backdoor4
-    7. Backdoor5
+    2. [QR Code](https://play.google.com/store/apps/details?id=hpandro.java.infosec.qr)
+    3. [Backdoor1](https://play.google.com/store/apps/details?id=hpandro.java.infosec.backdooor1)
+    4. [Backdoor2](https://play.google.com/store/apps/details?id=hpandro.java.infosec.backdooor2)
+    5. [Backdoor3](https://play.google.com/store/apps/details?id=hpandro.java.infosec.backdooor3)
+    6. [Backdoor4](https://play.google.com/store/apps/details?id=hpandro.java.infosec.backdooor4)
+    7. [Backdoor5](https://play.google.com/store/apps/details?id=hpandro.java.infosec.backdooor0)
 
 It will be great if you can support and share your thoughts with us to improve this application.
