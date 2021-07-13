@@ -5,16 +5,20 @@
 
 **[Android AppSec (Kotlin)](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)** app will help you to practice for Android Security points. We do it for the right reasons - to help developers make their apps more secure. The best way to verify that your app follows secure mobile development best practices is to perform security assessments of the app, which can include automated mobile app security testing, fuzzing, manual penetration testing, and more. This application represents some of the knowledge we share with the infosec community. We are trying to build a vulnerable application based on ***[OWASP Mobile Security Testing Guide](https://github.com/OWASP/owasp-mstg)***.
 
+We ([@hpAndro](https://twitter.com/hpandro) and [@_RaviRamesh](https://twitter.com/_RaviRamesh)) spend a lot of time attacking android app hacking, breaking encryption, finding bussiness logic flaws, penetration testing, and looking for sensitive data stored insecurely.
+
+We try harder to build vulnerable application for you..
+
 In this application we are covering below points:
 
 1. **HTTP Traffic**
-   1. HTTP Traffic
-   2. HTTPS Traffic
+   1. [HTTP Traffic](https://play.google.com/store/apps/details?id=hpandro.java.infosec.http)
+   2. [HTTPS Traffic](https://play.google.com/store/apps/details?id=hpandro.java.infosec.https)
 2. **Public Key Pinning**
-   1. Certificate Pinning Bypass (network_security_config.xml)
-   2. Certificate Pinning Bypass (okhttp)
-   3. Certificate Pinning Bypass (Cert check)
-   4. Certificate Pinning Bypass (Cert Hash match)
+   1. Certificate Pinning Bypass (network_security_config.xml) [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+   2. Certificate Pinning Bypass (okhttp) [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+   3. Certificate Pinning Bypass (Cert check) [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+   4. Certificate Pinning Bypass (Cert Hash match) [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
 3. **Non-HTTP Traffic**
    1. TCP Traffic
    2. UDP Traffic
@@ -31,8 +35,8 @@ In this application we are covering below points:
    7. Su Binary
    8. Su Exists
    9. RW System
-   10. SafetyNet
-   11. Using running processes
+   10. SafetyNet [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+   11. Using running processes [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
 6. **Emulator detection**
    1. Virtual Phone Number
    2. Device IDs
@@ -44,33 +48,33 @@ In this application we are covering below points:
    8. Debug Flag
    9. Network Operator Name
 7. **Anti-Debugging detection**
-   1. PMS Hook Detection
-   2. Checking TracerPid
-   3. Using Fork and ptrace
-   4. Frida Detection
-   5. SafetyNet
-   6. Debuggable Flag
-   7. isDebugger Connected
-   8. Timer Checks
-   9. JDWP-Related Data Structures
+   1. PMS Hook Detection [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+   2. Checking TracerPid [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+   3. Using Fork and ptrace [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+   4. Frida Detection [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+   5. SafetyNet [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+   6. Debuggable Flag [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+   7. isDebugger Connected [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+   8. Timer Checks [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+   9. JDWP-Related Data Structures [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
 8. **Insecure Data Storage**
    1. SQLite Databases (Unencrypted)
-   2. SQLite Databases (Encrypted)
-   3. Realm Databases (Unencrypted)
-   4. Realm Databases (Encrypted)
-   5. Firebase Real-time Databases
+   2. SQLite Databases (Encrypted) [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+   3. Realm Databases (Unencrypted) [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+   4. Realm Databases (Encrypted) [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+   5. Firebase Real-time Databases [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
    6. Shared Preferences
    7. Internal Storage
    8. External Storage
-   9. KeyStore
-   10. KeyChain
-   11. Keyboard Cache
-   12. User Interface
-   13. App Backup
-   14. Screenshots
-   15. Memory
-   16. User Dictionary Cache
-   17. Paste Board
+   9. KeyStore [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+   10. KeyChain [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+   11. Keyboard Cache [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+   12. User Interface [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+   13. App Backup [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+   14. Screenshots [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+   15. Memory [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+   16. User Dictionary Cache [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+   17. Paste Board [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
    18. Activity data
 9. **Logs**
    1. Informational Logs
@@ -81,16 +85,16 @@ In this application we are covering below points:
    6. WTF Logs
 10. **Content Providers**
     1. SQL Injection
-    2. File System Expose
+    2. File System Expose [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
 11. **Encryption**
-    1. Message Authentication Codes
-    2. Message Digest
-    3. Signatures
-    4. Custom Implementations
+    1. Message Authentication Codes [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+    2. Message Digest [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+    3. Signatures [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+    4. Custom Implementations [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
     5. Caesar Cipher
-    6. Weak Key Generation
-    7. Weak Random Number
-    8. Weaker Padding
+    6. Weak Key Generation [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+    7. Weak Random Number [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+    8. Weaker Padding [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
 12. **Symmetric Encryption**
     1. DES
     2. 3DES
@@ -105,19 +109,19 @@ In this application we are covering below points:
     2. MD5
     3. SHA1
 15. **Authentication**
-    1. Biometric
-    2. Confirm Credentials
+    1. Biometric [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+    2. Confirm Credentials [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
     3. 2FA - OTP Leakage
     4. 2FA - Response Manipulation
     5. 2FA - Status Code Manipulation
     6. 2FA - OTP Brute-Force
     7. 2FA - OTP Brute-Force 2
     8. 2FA - Integrity Validation
-    9. Application lock
+    9. Application lock [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
 16. **Binary Protection**
-    1. Library (NDK)
-    2. Packers
-    3. Obfuscator
+    1. Library (NDK) [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+    2. Packers [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
+    3. Obfuscator [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
 17. **Device ID**
     1. SSAID/ANDROID_ID
     2. Device Wi-Fi MAC
@@ -141,7 +145,7 @@ In this application we are covering below points:
     13. SSRF
     14. XXE
     15. Unrestricted File Upload
-    16. LFI
+    16. LFI [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
     17. RFI
     18. Deserialization
     19. XPATH Injection
@@ -160,7 +164,7 @@ In this application we are covering below points:
     32. Insecure Direct Object Reference
     33. JSON to XXE (Blind)
 19. **Miscellaneous**
-    1. Deeplink
+    1. Deeplink [Coming Soon...](http://hpandro.raviramesh.info/soon.php)
     2. QR Code
     3. Backdoor1
     4. Backdoor2
