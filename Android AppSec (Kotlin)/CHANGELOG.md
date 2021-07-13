@@ -2,14 +2,14 @@
 
 In this application we are covering below points:
 
-**1 HTTP Traffic**
-1.1 HTTP Traffic
-1.2 HTTPS Traffic
-**2 Public Key Pinning**
-2.1-4 Certificate Pinning Bypass
-**3 Non-HTTP Traffic**
-3.1 TCP Traffic
-3.2 UDP Traffic
+1. HTTP Traffic
+   1. HTTP Traffic
+   2. HTTPS Traffic
+2. Public Key Pinning
+   1. Certificate Pinning Bypass
+3. Non-HTTP Traffic
+  3.1 TCP Traffic
+  3.2 UDP Traffic
 **4 WebSocket Traffic**
 4.1 Web Socket (WS)
 4.2 Web Socket Secure (WSS)
