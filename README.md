@@ -54,7 +54,7 @@ In this application we are covering below points:
    4. Frida Detection [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
    5. SafetyNet [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
    6. Debuggable Flag [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
-   7. isDebugger Connected [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+   7. isDebugger Connected [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
    8. Timer Checks [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
    9. JDWP-Related Data Structures [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
 8. **Insecure Data Storage**
@@ -72,9 +72,9 @@ In this application we are covering below points:
    12. User Interface [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
    13. App Backup [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
    14. Screenshots [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
-   15. Memory [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+   15. Memory [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
    16. User Dictionary Cache [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
-   17. Paste Board [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+   17. Clipboard [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
    18. [Activity data](https://play.google.com/store/apps/details?id=hpandro.java.infosec.activity_data)
 9. **Logs**
    1. [Informational Logs](https://play.google.com/store/apps/details?id=hpandro.java.infosec.infolog)
@@ -85,7 +85,7 @@ In this application we are covering below points:
    6. [WTF Logs](https://play.google.com/store/apps/details?id=hpandro.java.infosec.infolog)
 10. **Content Providers**
     1. [SQL Injection](https://play.google.com/store/apps/details?id=hpandro.java.infosec.sqlinjection)
-    2. File System Expose [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+    2. File System Expose [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
 11. **Encryption**
     1. Message Authentication Codes [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
     2. Message Digest [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
