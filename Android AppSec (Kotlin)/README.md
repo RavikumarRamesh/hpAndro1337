@@ -1,5 +1,16 @@
 # CHANGELOG
 
+## version. 1.1.13 - July 17, 2021
+
+1. Anti-Debugging Detection 
+   1. isDebugger Connected task added
+2. Insecure Data Storage
+   1. Memory task added
+   2. Clipboard task added
+3. Content Provider
+   1. File System Expose task added
+
+
 ## version. 1.1.12 - July 10, 2021
 
 1. In Root detection category Root Cloaking Apps detection - com.topjohnwu.magisk package package checking added
