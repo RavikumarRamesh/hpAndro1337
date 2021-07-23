@@ -1,5 +1,16 @@
 # CHANGELOG
 
+## version. 1.1.14 - July 23, 2021
+
+1. Binary Protection 
+   1. RPATH challenge added 
+   2. Hardcoded Secret challenge added
+   3. Native Function Call challenge added
+2. Miscellaneous
+   1. Backdoor6 challenge added (Based on Native library)
+   2. Backdoor7 challenge added (Based on Native library)
+
+
 ## version. 1.1.13 - July 17, 2021
 
 1. Anti-Debugging Detection 
