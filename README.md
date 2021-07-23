@@ -119,9 +119,11 @@ In this application we are covering below points:
     8. 2FA - Integrity Validation [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
     9. Application lock [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
 16. **Binary Protection**
-    1. Library (NDK) [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
-    2. Packers [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
-    3. Obfuscator [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+    1. RPATH [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
+    2. Hardcoded Secret [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
+    3. Native Function Call [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
+    4. Packers [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+    5. Obfuscator [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
 17. **Device ID**
     1. [SSAID/ANDROID_ID](https://play.google.com/store/apps/details?id=hpandro.java.infosec.android_id)
     2. [Device Wi-Fi MAC](https://play.google.com/store/apps/details?id=hpandro.java.infosec.device_mac)
@@ -171,5 +173,7 @@ In this application we are covering below points:
     5. [Backdoor3](https://play.google.com/store/apps/details?id=hpandro.java.infosec.backdooor3)
     6. [Backdoor4](https://play.google.com/store/apps/details?id=hpandro.java.infosec.backdooor4)
     7. [Backdoor5](https://play.google.com/store/apps/details?id=hpandro.java.infosec.backdooor0)
+    8. Backdoor6 [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
+    9. Backdoor7 [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
 
 It will be great if you can support and share your thoughts with us to improve this application.
