@@ -3,7 +3,7 @@
 
 ## version. 1.1.15 - July 31, 2021
 
-1. Binary Protection 
+1. Insecure Data Storage
    1. SQLite Database (Encrypted) challenge added
    2. KeyStore challenge added
    3. Clipboard challenge updated (Thanks [Niklas Barsk](https://twitter.com/NiklasBarsk) for feedback)
