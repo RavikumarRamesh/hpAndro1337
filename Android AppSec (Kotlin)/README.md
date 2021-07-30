@@ -1,5 +1,15 @@
 # CHANGELOG
 
+
+## version. 1.1.15 - July 31, 2021
+
+1. Binary Protection 
+   1. SQLite Database (Encrypted) challenge added
+   2. KeyStore challenge added
+   3. Clipboard challenge updated (Thanks [Niklas Barsk](https://twitter.com/NiklasBarsk) for feedback)
+2. Cleanup task code base - move application related operation in utils class (anti_debugging,authentication,binary and contentprovider packages)
+
+
 ## version. 1.1.14 - July 23, 2021
 
 1. Binary Protection 
