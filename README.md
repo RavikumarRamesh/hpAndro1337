@@ -39,12 +39,12 @@ In this application we are covering below points:
    11. Using running processes [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
 6. **Emulator detection**
    1. Virtual Phone Number [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
-   2. Device IDs [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+   2. Device IDs [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
    3. Hardware Specifications [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
-   4. QEmu Detection [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+   4. QEmu Detection [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
    5. File Based Checking [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
    6. IP Based Checking [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
-   7. Package Name [[Coming Soon...]](http://hpandro.raviramesh.info/soon.php)
+   7. Package Name [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
    8. Debug Flag [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
    9. Network Operator Name [[Available in Master App]](https://play.google.com/store/apps/details?id=com.hpandro.androidsecurity)
 7. **Anti-Debugging detection**
