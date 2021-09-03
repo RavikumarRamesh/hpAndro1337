@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## version. 1.2 - September 04, 2021 ⛳
+
+1. Code level changes for all task classes (Easy to understand code base for beginners during reversing)
+2. Emoji added based on task progress ex. 🚧 for upcomming task 
+3. Enable 3 task in Emulator detection techniques 
+   1. Device ID based detection 🆔 
+   2. QEMU based device detection 📱 
+   3. Emulator detection based on package name 📦 
 
 ## version. 1.1.15 - July 31, 2021
 
