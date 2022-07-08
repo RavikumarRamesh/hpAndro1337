@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## version. 1.3 - July 04, 2022 ⛳
+
+1. Code level changes for all task classes (Easy to understand code base for beginners during reversing)
+2. Add comment with description and solution in every task activity
+3. New UI 
+   
 ## version. 1.2 - September 04, 2021 ⛳
 
 1. Code level changes for all task classes (Easy to understand code base for beginners during reversing)
